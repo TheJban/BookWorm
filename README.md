@@ -1,7 +1,7 @@
 # BookWorm
 In this app you can leave you favorite book review
 
-**Features: **
+**Features:**
 
 * Create, edit, delete books from the list
 * Custom view to display ratings
